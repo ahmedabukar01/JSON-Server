@@ -2,6 +2,7 @@ body{
     margin:108px auto;
     max-width: 960px;
     padding:10px;
+    background:rgb(175, 200, 206);
 }
 nav{
     display: flex;
@@ -30,4 +31,19 @@ form input,textarea{
 }
 textarea{
     min-height:200px;
+}
+.post{
+    background:white;
+    padding:16px;
+    border-radius: 10px;
+    margin:20px 0;
+}
+.post h2{
+    margin:0;
+}
+.post p{
+    margin-top:0;
+}
+.post a{
+    color:#36cca2;
 }

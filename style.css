@@ -1,0 +1,33 @@
+body{
+    margin:108px auto;
+    max-width: 960px;
+    padding:10px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+nav h1{
+    margin:0;
+}
+nav a{
+    text-decoration: none;
+    color:#fff;
+    background:#36cca2;
+    padding:15px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+form{
+    max-width: 500px;
+}
+form input,textarea{
+    display: block;
+    margin:16px 0;
+    width:100%;
+    padding:6px 10px;
+    border:1px solid grey
+}
+textarea{
+    min-height:200px;
+}

@@ -24,5 +24,13 @@
             "body":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, ad excepturi accusantium necessitatibus dolorum ex reprehenderit nam sunt mollitia quo minus unde suscipit totam vitae! Vero pariatur accusantium nobis nemo! Deleniti nam earum eveniet, ab vel inventore vero quae quod deserunt minima quia! Incidunt illo itaque distinctio sapiente magni molestias!",
             "likes":20
         }
+    ],
+    "polls":[
+        {
+            "id":1,
+            "question":"which one is better vue or react js",
+            "Answer A":"react",
+            "Answer B":"vue"
+        }
     ]
 }
